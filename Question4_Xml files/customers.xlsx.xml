@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <address index="3">address</address>
+    <city index="4">city</city>
+    <country index="6">country</country>
+    <customer_id index="1">customer_id</customer_id>
+    <customer_name index="2">customer_name</customer_name>
+    <phone index="8">phone</phone>
+    <pincode index="7">pincode</pincode>
+    <state index="5">state</state>
+  </columns>
+  <records>
+    <record index="1">
+      <address>Kalikut</address>
+      <city>Gujarat</city>
+      <country>India</country>
+      <customer_id>1</customer_id>
+      <customer_name>Venkat</customer_name>
+      <phone>8899234590</phone>
+      <pincode>500922</pincode>
+      <state>GT</state>
+    </record>
+    <record index="2">
+      <address>Thripura</address>
+      <city>Thamilnadu</city>
+      <country>India</country>
+      <customer_id>2</customer_id>
+      <customer_name>Harsha</customer_name>
+      <phone>9876543210</phone>
+      <pincode>500738</pincode>
+      <state>TN</state>
+    </record>
+  </records>
+</data>

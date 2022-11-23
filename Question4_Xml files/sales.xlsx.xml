@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <REGION index="3">REGION</REGION>
+    <SALES index="4">SALES</SALES>
+    <SALES_DATE index="1">SALES_DATE</SALES_DATE>
+    <SALES_PERSON index="2">SALES_PERSON</SALES_PERSON>
+  </columns>
+  <records>
+    <record index="1">
+      <REGION>NORTH EAST</REGION>
+      <SALES>20</SALES>
+      <SALES_DATE>4/1/2022</SALES_DATE>
+      <SALES_PERSON>Larry</SALES_PERSON>
+    </record>
+    <record index="2">
+      <REGION>SOUTH WEST</REGION>
+      <SALES>44</SALES>
+      <SALES_DATE>3/4/2022</SALES_DATE>
+      <SALES_PERSON>Alexander</SALES_PERSON>
+    </record>
+  </records>
+</data>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <columns>
+    <category_id index="3">category_id</category_id>
+    <discount index="6">discount</discount>
+    <discount_type index="7">discount_type</discount_type>
+    <price index="5">price</price>
+    <product_id index="1">product_id</product_id>
+    <product_name index="2">product_name</product_name>
+    <specification index="4">specification</specification>
+    <status index="8">status</status>
+  </columns>
+  <records>
+    <record index="1">
+      <category_id>1</category_id>
+      <discount>0</discount>
+      <discount_type>INR</discount_type>
+      <price>2600</price>
+      <product_id>1</product_id>
+      <product_name>Teddy bear</product_name>
+      <specification>The fur of soft toys is usually made from wool</specification>
+      <status>1</status>
+    </record>
+    <record index="2">
+      <category_id>2</category_id>
+      <discount>0</discount>
+      <discount_type>INR</discount_type>
+      <price>2200</price>
+      <product_id>2</product_id>
+      <product_name>Aeroplane</product_name>
+      <specification>Required 2AA Battery</specification>
+      <status>1</status>
+    </record>
+    <record index="3">
+      <category_id>1</category_id>
+      <discount>0</discount>
+      <discount_type>INR</discount_type>
+      <price>2500</price>
+      <product_id>3</product_id>
+      <product_name>Baby Shark</product_name>
+      <specification>Beautiful and soft fur</specification>
+      <status>1</status>
+    </record>
+    <record index="4">
+      <category_id>4</category_id>
+      <discount>0</discount>
+      <discount_type>INR</discount_type>
+      <price>500</price>
+      <product_id>4</product_id>
+      <product_name>Rubiks cube</product_name>
+      <specification>Made of good plastic.It is good for childerns</specification>
+      <status>1</status>
+    </record>
+  </records>
+</data>
